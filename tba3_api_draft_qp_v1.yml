@@ -104,9 +104,9 @@ paths:
           schema:
             type: string
             enum:
-              - competence-levels
-              - solution-frequencies
-              - task-performance
+              - competence-levels    
+              - solution-frequencies 
+              - task-performance     
         - name: competenceId
           in: query
           schema:
